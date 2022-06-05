@@ -1,5 +1,5 @@
-//Revaldo Relinsyah
-//G1A021060
+//Novia Evianti
+//G1A021072
 
 #include <iostream>
 #define MAX 15
